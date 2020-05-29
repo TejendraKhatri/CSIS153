@@ -1,0 +1,14 @@
+My name is Tejendra Khatri, and I am from Nepal. For now this is all you have to know about me!
+      This is the 2nd paragraph. How's this for a change!
+  Again! a new paragraph.
+Author:
+Tejendra Khatri
+Thank You.
+
+checking for chemical names:
+H2O, HNO3
+
+checking for positions: 
+1st
+2nd
+3rd
