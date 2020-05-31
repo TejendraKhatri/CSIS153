@@ -4,7 +4,8 @@ This program tests the class Car and the getters and the setters contained withi
 __author__ = "Tejendra Khatri"
 __date__ = "Oct 1, 2017"
 
-from modCar import * 
+from modCar import *
+
 car1 = Car("Hyundai" , 2010, 45000)
 car2 = Car("Chevrolet", 2017, 89000)
 print("Details of car1:");print(car1,"\n")
