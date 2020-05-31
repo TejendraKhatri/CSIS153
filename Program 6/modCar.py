@@ -4,7 +4,7 @@ brand name, make year and price of the car.
 '''
 
 __author__ = "Tejendra Khatri"
-__date__ = "Oct 1, 2017"
+__date__ = "Oct 2, 2017"
 
 class Car:
     def __init__(self, tmpBrandName, tmpMakeYear, tmpPrice): #constructor
