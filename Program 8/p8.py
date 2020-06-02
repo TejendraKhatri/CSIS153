@@ -1,7 +1,7 @@
 """
 This program contains two functions calcDiff, that calculates\
 the difference between two dates and calcLateFee, that calculates the \
-late fee based on current date and due date.
+ late fee based on current date and due date.
 """
 
 __author__ = "Tejendra Khatri"
