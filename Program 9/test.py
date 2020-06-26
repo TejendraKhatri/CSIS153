@@ -1,5 +1,6 @@
 from modVehicle import *
 
+
 print("Creating car objects".upper())
 arjunCar = Car(1234,"Honda","Black",2000)
 sushilCar = Car(2345,"Suzuki","Green",2015)
